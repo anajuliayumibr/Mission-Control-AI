@@ -4,7 +4,7 @@ GS2026.1 —> Pensamento Computacional e Automação com Python
 
 ### Missão: **Astra Polaris**
 
-## *Equipe:* 
+## *Equipe: Polaris* 
 
 Ana Julia Yumi Inoue - RM: 569430
 
