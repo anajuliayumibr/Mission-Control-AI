@@ -36,7 +36,7 @@ A missão é representada por uma matriz chamada `dados_missao`.
 
 Cada linha corresponde a um ciclo e cada coluna guarda uma informação específica: temperatura (°C), comunicação (%), bateria (%), oxigênio (%) e estabilidade (%).
 
-A missão Helios Deep Alpha possui 8 ciclos, cobrindo desde o lançamento até a estabilização após uma crise.
+A missão Astra Polaris possui 8 ciclos, cobrindo desde o lançamento até a estabilização após uma crise.
 
 
 -----------------
