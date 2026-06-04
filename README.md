@@ -3,7 +3,7 @@ GS2026.1 —> Pensamento Computacional e Automação com Python
 
 Objetivo: Programa em Python que simule um sistema básico de controle de missão espacial.
 
-missão **Helios Deep Alpha**
+### Missão: **Astra Polaris**
 
 ## *Equipe:* 
 
