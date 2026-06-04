@@ -1,7 +1,6 @@
 # Mission Control AI
 GS2026.1 —> Pensamento Computacional e Automação com Python  
 
-Objetivo: Programa em Python que simule um sistema básico de controle de missão espacial.
 
 ### Missão: **Astra Polaris**
 
@@ -13,10 +12,12 @@ João Pedro Santos Ferreira - RM: 569202
 
 Maria Fernanda Dias Ribeiro - RM: 569999
 
+Objetivo
+----------
+Programa em Python que simule um sistema básico de controle de missão espacial.
 
 Descrição
 ----------
-
 O Mission Control AI é um sistema em Python que simula o monitoramento inteligente de uma missão espacial experimental. Ele analisa ciclos de dados simulados: temperatura, comunicação, bateria, oxigênio e estabilidade e gera alertas automáticos, calcula o risco de cada ciclo e apresenta um relatório final completo no terminal.
 
 
