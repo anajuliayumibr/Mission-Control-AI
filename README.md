@@ -25,11 +25,7 @@ O Mission Control AI é um sistema em Python que simula o monitoramento intelige
 
 Como executar
 ---------------
-É necessário ter o Python 3 instalado. Nenhuma biblioteca externa é necessária.
-
-```bash
-python mission_control.py
-```
+Nenhuma biblioteca externa é necessária, apenas ter o Python 3 instalado. 
 
 ---
 
