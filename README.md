@@ -124,8 +124,6 @@ FUNÇÃO e DESCRIÇÃO
 
 `identificar_area_mais_afetada()`  = Soma risco acumulado por área 
 
-`identificar_area_mais_afetada()`  = Soma risco acumulado por área 
-
 `exibir_ciclos()`                  = Exibe a análise detalhada de cada ciclo 
 
 `gerar_relatorio_final()`          = Exibe o relatório consolidado da missão 
